@@ -4,7 +4,7 @@
 
 RetroBox is a lightweight, browser-based emulator that lets you play classic games from legendary consoles—no downloads or complicated setup required. Just open RetroBox in your browser, load your favorite ROMs, and dive into nostalgia!  
 
-## � **Supported Platforms**  
+## 🔹 **Supported Platforms**  
 - **NES** (Nintendo Entertainment System)  
 - **SNES** (Super Nintendo)  
 - **Sega Genesis / Mega Drive**  
